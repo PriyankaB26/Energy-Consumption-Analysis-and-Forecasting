@@ -59,3 +59,7 @@ Created **interactive Power BI dashboards** to explore energy consumption trends
 - Incorporate **predictive modeling in Python/R** using time-series models (e.g., ARIMA, LSTM, Prophet) to enhance accuracy  
 - Use **external data sources** (calendar events, temperature, weather, renewable energy production, etc.) for more reliable forecasting  
 - Expand the dataset to include **additional companies or regions**  
+
+![Energy Consumption by Companies](Energy%20consumption%20by%20companies.png)
+![Energy Consumption Over Time](Energy%20consumption%20over%20time.png)
+![Load Forecasting](Load%20Forecasting.png)
